@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on accessoriesMenuLink -> Navigate to page 'category page#category/*'",
+        "step 3: Click on addToCartButton",
+        "step 4: Click on placeOrderButton -> Navigate to page 'cart page#cart'",
+        "step 5: Click on incrementButton",
+        "step 6: Click on proceedToCheckoutButton -> Navigate to page 'checkout page#checkout/info'",
+        "step 7: Click on emailInputField",
+        "step 8: Enter input value in emailInputField2",
+        "step 9: Click on continueToShippingButton -> Navigate to page 'checkout page#checkout/shipping-address'",
+        "step 10: Click on firstNameInput",
+        "step 11: Enter input value in firstNameInput2",
+        "step 12: Enter input value in lastNameInput",
+        "step 13: Enter input value in addressInputField",
+        "step 14: Enter input value in zipCodeInput",
+        "step 15: Enter input value in cityInputField",
+        "step 16: Enter input value in stateInputField",
+        "step 17: Click on continueToPaymentButton -> Navigate to page 'checkout page#checkout/payment'",
+        "step 18: Click on completeOrderButton -> Navigate to page 'thank you page#thank-you/*'",
+        "step 19: Click on kCellphoneShopLogo -> Navigate to page '/'",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}
